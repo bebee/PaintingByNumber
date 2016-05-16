@@ -1,0 +1,14 @@
+#canvas {
+	position:absolute;
+	top:30px;
+	left:100px;
+}
+.numbercanvas
+{
+    position:absolute;
+    top:1080px;
+    left:100px;
+}
+.numbercolors {
+    left:10px;
+}
