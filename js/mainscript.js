@@ -1,4 +1,3 @@
-var colorCounter = 0;
 ColorArray = [];
 
 class Color {
